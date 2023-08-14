@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # TensorFlow Diabetes Classification Tutorial
 In this notebook, I'll walk you through step-by-step how to use TensorFlow to classify people with or without diabetes based on a dataset. We will use Kaggle's "Diabetes Prediction Dataset" dataset, available at https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset.
 
